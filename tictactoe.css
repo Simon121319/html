@@ -1,0 +1,28 @@
+ul {
+    list-style-type: none;
+    background-color:rgb(249, 252, 254);
+}
+
+.large {
+    display: flex;
+    font-size: 50pt;
+    text-align: center;
+    
+}
+li {
+    color: rgb(10, 10, 10);
+    font-family: sans-serif;
+}
+
+.box{
+    background-color: rgb(139, 149, 149);
+    margin:3pt;
+    text-decoration: aliceblue;
+    text-align: center;
+    width: 50pt;
+    height:50pt;
+
+    border: 5px;
+    
+    
+}
